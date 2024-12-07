@@ -1,1 +1,1 @@
-# Resource_Bot
+# Friday_Bot
